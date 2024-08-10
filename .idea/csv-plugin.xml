@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\top100_00s_fr.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_00s_ge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\top100_00s_ja.csv">
           <value>
             <Attribute>
@@ -18,6 +32,27 @@
           </value>
         </entry>
         <entry key="\top100_00s_uk.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_00s_us.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_10s_fr.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_10s_ge.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -45,6 +80,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\top100_10s_us.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_90s_fr.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_90s_ge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\top100_90s_ja.csv">
           <value>
             <Attribute>
@@ -60,6 +116,13 @@
           </value>
         </entry>
         <entry key="\top100_90s_uk.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\top100_90s_us.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
